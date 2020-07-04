@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/xout/fork-with-emitter/issues"
   },
-  "homepage":"https://github.com/xout/fork-with-emitter",
+  "homepage": "https://github.com/xout/fork-with-emitter",
   "keywords": [
     "childprocess",
     "child_process",
